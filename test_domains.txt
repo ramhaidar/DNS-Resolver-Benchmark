@@ -1,0 +1,53 @@
+# Popular search engines
+google.com
+bing.com
+yahoo.com
+duckduckgo.com
+
+# Social media platforms
+facebook.com
+twitter.com
+instagram.com
+linkedin.com
+
+# E-commerce websites
+amazon.com
+ebay.com
+aliexpress.com
+
+# News websites
+bbc.com
+cnn.com
+nytimes.com
+theguardian.com
+
+# Technology companies
+microsoft.com
+apple.com
+amazonaws.com
+cloudflare.com
+openai.com
+
+# Video streaming services
+youtube.com
+netflix.com
+hulu.com
+vimeo.com
+
+# Essential internet services
+wikipedia.org
+github.com
+stackoverflow.com
+paypal.com
+
+# Other useful domains
+reddit.com
+quora.com
+twitch.tv
+spotify.com
+
+# DNS providers for testing
+cloudflare-dns.com
+dns.google
+opendns.com
+quad9.net
