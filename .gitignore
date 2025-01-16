@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Excel files containing performance results
+dns_server_performance_*.xlsx
+
+# Allow only specific txt files
+*.txt
+!dns_servers.txt
+!test_domains.txt
